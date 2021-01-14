@@ -30,3 +30,4 @@ export { default as TextField } from './TextField';
 export { default as Timeline } from './Timeline';
 export { default as Tooltip } from './Tooltip';
 export * from './transitions';
+export { default as Upload } from './Upload';
